@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aladinyo</h1>
 <h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aladinyo&label=Profile%20views&color=0e75b6&style=flat" alt="aladinyo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aladinyo&base=12000&label=Profile%20views&color=blueviolet&style=flat" alt="aladinyo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aladinyo" alt="aladinyo" /></a> </p>
 
