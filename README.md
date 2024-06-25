@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/aladinyo/aladinyo/main/banner1.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Aladinyo</h1>
 <h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
